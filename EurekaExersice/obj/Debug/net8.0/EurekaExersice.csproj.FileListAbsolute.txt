@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\EurekaExersice\bin\Debug\net8.0\EurekaExersice.exe
+C:\Users\Asus\source\repos\EurekaExersice\bin\Debug\net8.0\EurekaExersice.deps.json
+C:\Users\Asus\source\repos\EurekaExersice\bin\Debug\net8.0\EurekaExersice.runtimeconfig.json
+C:\Users\Asus\source\repos\EurekaExersice\bin\Debug\net8.0\EurekaExersice.dll
+C:\Users\Asus\source\repos\EurekaExersice\bin\Debug\net8.0\EurekaExersice.pdb
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\EurekaExersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\EurekaExersice.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\EurekaExersice.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\EurekaExersice.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\EurekaExersice.dll
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\refint\EurekaExersice.dll
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\EurekaExersice.pdb
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\EurekaExersice.genruntimeconfig.cache
+C:\Users\Asus\source\repos\EurekaExersice\obj\Debug\net8.0\ref\EurekaExersice.dll
